@@ -35,7 +35,8 @@
                 "components",
                 "auth",
                 "repo",
-                "api"
+                "api",
+                "db"
             ]
         ]
     }
