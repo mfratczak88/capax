@@ -12,6 +12,7 @@
     "lint": "next lint --max-warnings 0",
     "prettier:fix": "prettier src --write",
     "prettier": "prettier src --check",
+    "typecheck": "tsc --noEmit",
     "start": "next start"
   },
   "dependencies": {
